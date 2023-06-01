@@ -9,11 +9,11 @@ This can be used not only for authentication purpose, you can then turn it to fu
 online databases such as Firebase or any else out there.
 
 #Used techs.
-- Ktor    - Framework based on Kotlin programming langage.
-- MySQL   - An open-source relational database management system loved by many (jks, but yet true).
-- Postman - Software used to test the functionalities/endpoints of the API
+- Ktor    - Framework based on Kotlin programming langage;
+- MySQL   - An open-source relational database management system loved by many (jks, but yet true);
+- Postman - Software used to test the functionalities/endpoints of the API;
 - JWT Authentication - Stands for JSON Web Token is a proposed Internet standard for creating data with optional signature and/or 
-  optional encryption whose payload holds JSON that asserts some number of claims.
+  optional encryption whose payload holds JSON that asserts some number of claims;
 - BCrypt  - BCrypt is a password-hashing function designed by Niels Provos and David Mazières.
 
 
