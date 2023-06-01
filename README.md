@@ -3,7 +3,7 @@
 Hi,
 
 This is a Rest API fully coded in Kotlin Framework Ktor, this is nothing but an Authentcation API that you can implement 
-in your existing mobile or web application that requires a very secure and independent authentication process.
+in your existing mobile or web application that requires a very secure and independent authentication process based on tokens.
 
 This can be used not only for authentication purpose, you can then turn it to fully customised backend so you can be independed of
 online databases such as Firebase or any else out there.
