@@ -10,7 +10,7 @@ online databases such as Firebase or any else out there.
 
 #Used techs.
 - Ktor    - Framework based on Kotlin programming langage.
-- MySQL   - 
+- MySQL   - An open-source relational database management system loved by many (jks, but yet true).
 - Postman - Software used to test the functionalities/endpoints of the API
 - JWT Authentication - Stands for JSON Web Token is a proposed Internet standard for creating data with optional signature and/or 
   optional encryption whose payload holds JSON that asserts some number of claims.
